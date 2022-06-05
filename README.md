@@ -6,7 +6,7 @@
 ![Real esrGAN](https://img.shields.io/badge/RealesrGAN%20-green?style=for-the-badge&logo=RealesrGAN)
 ![pytesseract](https://img.shields.io/badge/pytesseract%20-seagreen?style=for-the-badge&logo=pytesseract)
 ## Aim:
-- Detection on vechile license plate from low resolution traffic images.(Using yoloV5)
+- Detection on vehicle license plate from low resolution traffic images.(Using yoloV5)
 - Extraction of license plates from the images and zoom them 5x times. (Using openCV)
 - Enhance the resolution of the extracted images. (Using Real esrGAN)
 - Extract the license plate text. (Using pytesseract)
