@@ -37,5 +37,7 @@
 # Text extraction from license plate
 ![image](https://user-images.githubusercontent.com/60208804/171849634-7a24ba13-ed97-4121-b1b9-eecb7f3ec55a.png)
 
-
-
+# Model Performance
+- Mean Average Precision(mAP)=92.6%
+- Precision=94.8%
+- Recall=87.8%
