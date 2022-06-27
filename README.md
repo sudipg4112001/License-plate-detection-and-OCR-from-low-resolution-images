@@ -15,8 +15,9 @@
 - pandas
 - numpy
 - yoloV5
+- pytorch
 - openCV
-- esrGAN
+- Real ESRGAN
 - pytesseract
 
 ## Workflow diagram
